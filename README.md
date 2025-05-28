@@ -26,15 +26,6 @@ Um conjunto de algoritmos de escalonamento de processos desenvolvidos como parte
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```text
-/SistemasOperacionais
-├── checkpoint1_FIFO/
-├── checkpoint2_SJF/
-├── checkpoint3_RoundRobin/
-├── checkpoint4_Prioridade/
-
 ## 🚀 Como rodar o projeto
 
 1. Clone o repositório:
