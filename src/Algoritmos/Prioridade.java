@@ -1,6 +1,4 @@
-package Algoritmos;
-
-import java.util.PriorityQueue;
+package src.Algoritmos;
 
 /**
  * Escreva uma descrição da classe Prioridade aqui.

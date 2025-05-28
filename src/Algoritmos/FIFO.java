@@ -1,6 +1,5 @@
-package Algoritmos;
+package src.Algoritmos;
 
-import java.util.Queue;
 /**
  * Escreva uma descrição da classe FIFO aqui.
  *

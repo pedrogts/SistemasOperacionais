@@ -1,6 +1,7 @@
+package src;
 
 /**
- * Escreva uma descrição da classe View aqui.
+ * Escreva uma descrição da classe src.View aqui.
  *
  * @author (seu nome)
  * @version (um número da versão ou uma data)

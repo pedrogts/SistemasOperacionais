@@ -1,4 +1,4 @@
-# ⚙️ Algoritmos de Escalonamento
+# ⚙️ src.Algoritmos de Escalonamento
 
 Um conjunto de algoritmos de escalonamento de processos desenvolvidos como parte da disciplina de **Sistemas Operacionais** na **PUC-SP**.
 
@@ -6,7 +6,7 @@ Um conjunto de algoritmos de escalonamento de processos desenvolvidos como parte
 
 ---
 
-## 🧠 Algoritmos Implementados
+## 🧠 src.Algoritmos Implementados
 
 - ✅ **FIFO (First In, First Out)**
   - [ ] Código-fonte

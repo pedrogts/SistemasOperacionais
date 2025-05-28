@@ -1,5 +1,6 @@
-package Algoritmos;
+package src.Algoritmos;
 
+import src.Processo;
 import java.util.List;
 /**
  * Escreva uma descrição da classe RoundRobin aqui.

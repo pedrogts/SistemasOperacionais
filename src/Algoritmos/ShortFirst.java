@@ -1,4 +1,4 @@
-package Algoritmos;
+package src.Algoritmos;
 
 
 /**
